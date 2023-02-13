@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681857383834",
+    "project_id": "prectise-first-project",
+    "storage_bucket": "prectise-first-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681857383834:android:ce615931cb3f7276548e23",
+        "android_client_info": {
+          "package_name": "com.example.practise_functionality_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681857383834-facn4naivis7o43bharb9k1s52qk0c33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCax0PHES1UpOUNUQYhG_xWbBTMTt6T7gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681857383834-facn4naivis7o43bharb9k1s52qk0c33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
